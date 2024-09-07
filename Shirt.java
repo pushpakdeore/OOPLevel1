@@ -1,8 +1,5 @@
 package pushpak15L1ClassObjectConstructor;
 
-import org.w3c.dom.css.CSS2Properties;
-
-import javax.smartcardio.ATR;
 
 public class Shirt {
     private  int size;
