@@ -13,7 +13,7 @@ public class Employee {
         return salary*12;
     }
     public void printEmployeeDetail(){
-        System.out.println("Employee Name :"+name);
+        System.out.println("Emplolyee Name :"+name);
         System.out.println("Employee Id:"+ID);
         System.out.println("Employee Salary :"+calculateYearSalary());
     }
